@@ -1,0 +1,1 @@
+ssh root@192.168.1.60 '/opt/scripts/./renueva_agente.sh 1107'
